@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Suggested Plan for Execution:](README.md)
+* [Social Media Post](README.md)
