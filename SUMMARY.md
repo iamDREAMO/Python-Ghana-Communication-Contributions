@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Acceptance](README.md)
+* [Suggested Plan for Execution:](README.md)
