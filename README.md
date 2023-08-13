@@ -1,2 +1,2 @@
-# Python-Ghana-Communication-Contributions
+# Python-Ghana-Communication Team-Contributions
 Contributions as Communication Team Member for Python Ghana Community
