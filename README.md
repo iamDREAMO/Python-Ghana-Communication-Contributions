@@ -17,4 +17,4 @@ We've got some awesome news for you. Python Ghana has snagged 10 exclusive OffSe
 Guess what? It's all on the house – yep, absolutely FREE! But hurry, spots are limited. Join forces with Python Ghana and Offensive Security to make the digital world safer. Get ready to take on challenges, expand your know-how, and pave your path to success. Ready to dive in? Learn more and snag your spot: \
 **\[Link]** 📚🔐
 
-\#PythonGhana #CybersecurityTraining #OffensiveSecurity #SkillsForTheFuture
+\#PythonGhana #CybersecurityTraining #OffensiveSecurity 
