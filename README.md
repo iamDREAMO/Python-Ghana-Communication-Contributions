@@ -1,20 +1,11 @@
 ---
-description: A draft of Post to be shared across the communities social handles
+description: This is to serve as a content box of general community ideas.
 ---
 
-# Social Media Post
+# General Community Dump
 
-_**NB: Application link needs to be appended👇**_
+Posts can be anything in particular.&#x20;
 
+Could be Infographics or Write-ups, etc. However, for easy access for the design team, the post should be filled out here.
 
-
-## DRAFT👇
-
-\
-🔒 Hey there, Future Cybersecurity Pro! 🚀\
-We've got some awesome news for you. Python Ghana has snagged 10 exclusive OffSec Sponsored Invitations – your golden ticket to immersive, cutting-edge training. Take your pick: Lay a strong foundation with Learn Fundamentals, or level up with the Course & Cert Exam Bundle. 🌐💡
-
-Guess what? It's all on the house – yep, absolutely FREE! But hurry, spots are limited. Join forces with Python Ghana and Offensive Security to make the digital world safer. Get ready to take on challenges, expand your know-how, and pave your path to success. Ready to dive in? Learn more and snag your spot: \
-**\[Link]** 📚🔐
-
-\#PythonGhana #CybersecurityTraining #OffensiveSecurity 
+Please note to specify what type of post you are submitting, and how the desired content should be communicated to give proper insight to the design team.
