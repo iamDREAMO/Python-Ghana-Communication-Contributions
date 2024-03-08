@@ -18,7 +18,7 @@ _**(Insert an image preferably any group picture of Django Girls)**_
 
 While we celebrate our progress, we remain focused on the ongoing journey ahead. The landscape of gender equality is ever-evolving, demanding our continuous attentiveness and decision-making to drive further advancements. Our unwavering commitment to fostering an inclusive environment ensures that everyone, regardless of background, feels a profound sense of belonging and has the opportunity to unleash their full potential within the tech ecosystem.
 
-The journey never ends. We keep striving for an inclusive future.
+The journey never ends. We keep striving for an inclusive future!
 
 Borrowing an amazing quote from the cherished Senegalese Writer Miriama Ba's first book [So Long a Letter](https://en.wikipedia.org/wiki/So\_Long\_a\_Letter) (French: Une si longue lettre):
 
